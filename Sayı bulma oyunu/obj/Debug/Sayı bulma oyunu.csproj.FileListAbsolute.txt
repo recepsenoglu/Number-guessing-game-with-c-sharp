@@ -1,0 +1,19 @@
+C:\Users\user_\source\repos\Sayı bulma oyunu\Sayı bulma oyunu\bin\Debug\Sayı bulma oyunu.exe.config
+C:\Users\user_\source\repos\Sayı bulma oyunu\Sayı bulma oyunu\bin\Debug\Sayı bulma oyunu.exe
+C:\Users\user_\source\repos\Sayı bulma oyunu\Sayı bulma oyunu\bin\Debug\Sayı bulma oyunu.pdb
+C:\Users\user_\source\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı bulma oyunu.csprojAssemblyReference.cache
+C:\Users\user_\source\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı_bulma_oyunu.Form1.resources
+C:\Users\user_\source\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı_bulma_oyunu.Properties.Resources.resources
+C:\Users\user_\source\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı bulma oyunu.csproj.GenerateResource.cache
+C:\Users\user_\source\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı bulma oyunu.exe
+C:\Users\user_\source\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı bulma oyunu.pdb
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\bin\Debug\Sayı bulma oyunu.exe.config
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\bin\Debug\Sayı bulma oyunu.exe
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\bin\Debug\Sayı bulma oyunu.pdb
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı bulma oyunu.csprojAssemblyReference.cache
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı_bulma_oyunu.Form1.resources
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı_bulma_oyunu.Properties.Resources.resources
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı bulma oyunu.csproj.GenerateResource.cache
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı bulma oyunu.csproj.CoreCompileInputs.cache
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı bulma oyunu.exe
+D:\yedek\masaüstü 3\repos\Sayı bulma oyunu\Sayı bulma oyunu\obj\Debug\Sayı bulma oyunu.pdb
